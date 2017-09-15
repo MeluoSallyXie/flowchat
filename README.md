@@ -1,5 +1,13 @@
 # flowchat
+流程工具
 
+来自https://github.com/lkiarest/flow-chart的改编
+
+考虑到更改的比较多，而且最终的使用场景不一样，重新建立一个工程。
+
+不同点是手动创建的node可以改名字，不是预定义好的。
+
+saved by json
 {
     "nodes":[
         {
