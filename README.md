@@ -1,7 +1,7 @@
 # flowchat
 流程工具
 
-来自https://github.com/lkiarest/flow-chart的改编
+来自git的改编https://github.com/lkiarest/flow-chart
 
 考虑到更改的比较多，而且最终的使用场景不一样，重新建立一个工程。
 
