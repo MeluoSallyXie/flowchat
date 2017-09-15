@@ -7,6 +7,9 @@
 
 不同点是手动创建的node可以改名字，不是预定义好的。
 
+演示地址：
+http://www.meluo.net/flowchat/demo/demo.html
+
 saved by json
 {
     "nodes":[
